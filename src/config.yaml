@@ -11,7 +11,7 @@ metadata:
   title:
     default: Clockbee
     template: '%s — AstroWind'
-  description: '📅 Perfect for Workforce Teams, Gyms, Clinics, Educational Institutions, and Service-Based Businesses — streamline shift planning, staff coordination, time tracking, and team communication with ease.'
+  description: '📅 Perfect for Workforce Teams, Hospitality secotr, Hotels, Educational Institutions, and Service-Based Businesses — streamline shift planning, staff coordination, time tracking, and team communication with ease.'
   robots:
     index: true
     follow: true
