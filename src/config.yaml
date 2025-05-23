@@ -11,7 +11,7 @@ metadata:
   title:
     default: Clockbee
     template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: '📅 Perfect for Workforce Teams, Gyms, Clinics, Educational Institutions, and Service-Based Businesses — streamline shift planning, staff coordination, time tracking, and team communication with ease.'
   robots:
     index: true
     follow: true
